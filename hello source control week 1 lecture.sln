@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hello source control week 1 lecture", "hello source control week 1 lecture\hello source control week 1 lecture.csproj", "{DE12FD09-43F5-4213-AA8D-B31B79CBBD25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE12FD09-43F5-4213-AA8D-B31B79CBBD25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE12FD09-43F5-4213-AA8D-B31B79CBBD25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE12FD09-43F5-4213-AA8D-B31B79CBBD25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE12FD09-43F5-4213-AA8D-B31B79CBBD25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2092BBC8-9332-412C-8CE5-8AF20F11D74B}
+	EndGlobalSection
+EndGlobal
